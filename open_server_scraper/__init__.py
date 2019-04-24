@@ -1,5 +1,5 @@
 from datetime import datetime
-from scraper_lib import *
+from .scraper_lib import *
 
 __title__ = 'open_server_scraper'
 __version__ = '0.1.0'
