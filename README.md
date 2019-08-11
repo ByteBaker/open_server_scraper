@@ -8,7 +8,7 @@ open_server_scraper can be used from the command line or imported as a python pa
 To use the script from command line
 ```
   $open_server_scraper
-  Enter url: http://103.114.38.38/HDD1/
+  Enter url: http://xyz.xyz.xyz.xyz/
   .
   .
   .
